@@ -1,0 +1,24 @@
+{
+  "name": "csl-validator",
+  "version": "0.0.1",
+  "description": "field input validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaivx/csl-validator.git"
+  },
+  "keywords": [
+    "field",
+    "input",
+    "validator"
+  ],
+  "author": "at85",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaivx/csl-validator/issues"
+  },
+  "homepage": "https://github.com/thaivx/csl-validator#readme"
+}
